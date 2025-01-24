@@ -1,0 +1,35 @@
+
+    a {
+        text-decoration: none;
+    }
+    ul {
+        line-height: 4;
+        list-style: none;
+    }
+    .subscribe-button:link, .subscribe-button:visited {
+        background-color: rgb(204, 0, 0);
+        color: white;
+        border-radius: 4px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .subscribe-button:hover, .subscribe-button:active {
+        background-color: rgb(182, 98, 98);
+    }
+
+    .follow-me:link, .follow-me:visited {
+        background-color: black;
+        color: white;
+        border-radius: 7px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    .follow-me:hover, .follow-me:active {
+        background-color: rgb(70, 68, 68);
+    }
+  
